@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Raghad
 
-<!--
-**Raghad-204/Raghad-204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Technology student  
+Interested in software development and web technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm an IT student with a strong interest in programming and building practical projects.  
+I enjoy learning new technologies, solving problems, and improving my skills through hands-on practice.
+
+I have studied and practiced multiple programming languages during my academic journey.
+
+---
+
+## 🛠️ Programming Languages & Skills
+
+- Java  
+- Python  
+- HTML5  
+- CSS3  
+- SQL (Basics)
+
+  ---
+  ## 🧰 Tools
+
+- Git & GitHub  
+- Visual Studio Code  
+- NetBeans  
+- PyCharm (Python IDE)  
