@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Raghad
 
 Information Technology student  
-Interested in software development and web technologies  
+Interested in Software Engineering and Full-Stack .
+
 
 ---
 
